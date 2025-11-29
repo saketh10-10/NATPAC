@@ -1,0 +1,16 @@
+{
+  "name": "tripconnect",
+  "version": "1.0.0",
+  "description": "TripConnect - Smart Travel Data & Insights Platform",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev:backend": "cd backend && npm install && npm run dev",
+    "dev:frontend": "cd frontend/frontend && npm install && npm run dev",
+    "build": "cd frontend/frontend && npm install && npm run build",
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend/frontend && npm start"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
