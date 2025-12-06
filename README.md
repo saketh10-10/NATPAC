@@ -4,7 +4,9 @@
 
 ## 🎯 Overview
 
+
 THIS PROJECT IS NOT FULLY FUNCTIONAL AT THE MOMENT, AS IT IS STILL UNDER DEVELOPMENT
+
 TripConnect is a **fully functional, production-ready** web application that simplifies trip management while providing valuable transportation insights for research and planning. It features three distinct user roles with specialized dashboards and capabilities.
 
 ## ✨ Key Features
